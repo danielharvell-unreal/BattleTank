@@ -4,3 +4,4 @@ An open world head to head fight with simple AI, terrain, and advanced control i
 
 ### 1 Set up repo
   + added some markdown
+  + 106. Setting Up a GitHub “Repo”
